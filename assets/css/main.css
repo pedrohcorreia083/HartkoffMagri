@@ -719,6 +719,7 @@ section,
 .section {
   color: var(--default-color);
   background-color: var(--background-color);
+  padding: 60px 0;
   scroll-margin-top: 90px;
   overflow: clip;
 }
@@ -780,6 +781,7 @@ section,
   display: flex;
   align-items: center;
   overflow: hidden;
+  padding: 0px;
 }
 
 .hero::after {
